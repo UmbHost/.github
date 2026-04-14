@@ -16,7 +16,7 @@ Our next-generation hosting platform, **GreenStack**, launched in January 2026 a
 | **Pro** | Growing agencies & production sites |
 | **Scale** | High-traffic & enterprise deployments |
 
-🔗 [greenstack.host](https://greenstack.host)
+🔗 [umbhost.net — Modern Umbraco Hosting](https://umbhost.net/gb/sustainable-cloud-hosting/modern-umbraco-hosting)
 
 ### What's under the hood
 
@@ -70,7 +70,7 @@ We believe in giving back to the community that powers our business. You'll find
 | | |
 |---|---|
 | 🌍 Website | [umbhost.net](https://umbhost.net) |
-| 🟢 GreenStack | [greenstack.host](https://greenstack.host) |
+| 🟢 GreenStack | [umbhost.net/gb/sustainable-cloud-hosting/modern-umbraco-hosting](https://umbhost.net/gb/sustainable-cloud-hosting/modern-umbraco-hosting) |
 | 🐦 Twitter/X | [@UmbHost](https://twitter.com/UmbHost) |
 | 💬 Umbraco Community | Find us on the [Umbraco Discord](https://discord.umbraco.com) |
 
